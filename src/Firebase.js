@@ -4,14 +4,7 @@
   import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBq0uFuCQv8Q81xqFGXa4E-MUXDx0rBmDY",
-    authDomain: "my-socialplatform.firebaseapp.com",
-    databaseURL: "https://my-socialplatform.firebaseio.com",
-    projectId: "my-socialplatform",
-    storageBucket: "my-socialplatform.appspot.com",
-    messagingSenderId: "577870779592",
-    appId: "1:577870779592:web:aecf751d7a26e32a72c1fd",
-    measurementId: "G-DKE10EKMX5"
+  {add ur config key here}
   };
 
   // Initialize Firebase with a "default" Firebase project
