@@ -4,6 +4,7 @@
 - Basically, by using this app an user can signUp, signIn and logout from the app.
 - All the authentication has been done using the power of firebase authentication.
 - After successfull signIn user can either post an image with its caption.
+- Moreover, user can also comment on the post, for this, its is required for the user to be signed in.
 - This web application is hosted on https://my-socialplatform.web.app/
 
 ## Available Scripts
