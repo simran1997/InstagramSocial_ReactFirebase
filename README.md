@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# InstagramSocial_ReactJsFirebase
+- A web apllication developed using React.js framework.
+- Data of the app is handled and stored using Firebase.
+- Basically, by using this app an user can signUp, signIn and logout from the app.
+- All the authentication has been done using the power of firebase authentication.
+- After successfull signIn user can either post an image with its caption.
+- This web application is hosted on https://my-socialplatform.web.app/
 
 ## Available Scripts
 
